@@ -105,7 +105,7 @@ const handler = async (msg, { conn }) => {
   await conn.sendMessage(
   msg.key.remoteJid,
   {
-    image: { url: `https://cdn.russellxz.click/76faa1fa.jpeg` },
+    image: { url: `https://h.uguu.se/QJdQrkrU.jpg` },
     caption: menu
   },
   { quoted: msg }
