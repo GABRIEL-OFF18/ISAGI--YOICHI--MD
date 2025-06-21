@@ -77,11 +77,11 @@ global.reto = ["comer 2 cucharadas de arroz sin guarniciones, si se está arrast
 //---------------[ IDs de canales ]----------------
 
 global.ch = {
-ch1: '120363266665814365@newsletter', //AzuraUltra
-ch2: '120363301598733462@newsletter', //SkyUltraPlus 
-ch3: '120363160031023229@newsletter', //Infinity-Wa
+ch1: '120363419659321292@newsletter', //
+ch2: '120363419659321292@newsletter', //S
+ch3: '120363419659321292@newsletter', //Infinity-Wa
 ch4: '120363374372683775@newsletter', //🌹 Pσҽƚιx ✨ Sƚҽʅʅαɾ 😎 Fυɳ
-ch5: '120363343811229130@newsletter', //◟𖥻🗿៹┊My Honest Reaction
+ch5: '120363419659321292@newsletter', //◟𖥻🗿៹┊My Honest Reaction
 ch6: '120363418194182743@newsletter', //𝐊𝐮𝐫𝐨𝐭𝐚𝐤𝐚-𝐌𝐃
 ch7: '120363307551724976@newsletter', //🪼 FRASES, MEMES Y CONSEJOS PARA TUS ESTADOS 🪼
 ch8: '120363385983031660@newsletter', //🐼 Evolution App
