@@ -12,7 +12,7 @@ const handler = async (msg, { conn }) => {
 
     await conn.sendMessage(msg.key.remoteJid, {
       image: { url: 'https://cdn.russellxz.click/0560b360.PNG' },
-      caption: `𝘏𝘢𝘴 𝘦𝘴𝘤𝘰𝘨𝘪𝘥𝘰 *𝘙𝘌𝘛𝘖*\n\n╱╲❀╱╲╱╲❀╱╲╱╲❀╱╲\n◆ ${reto}\n╲╱❀╲╱╲╱❀╲╱╲╱❀╲╱\n\n© Azura Ultra 2.0 subbots`
+      caption: `𝘏𝘢𝘴 𝘦𝘴𝘤𝘰𝘨𝘪𝘥𝘰 *𝘙𝘌𝘛𝘖*\n\n╱╲❀╱╲╱╲❀╱╲╱╲❀╱╲\n◆ ${reto}\n╲╱❀╲╱╲╱❀╲╱╲╱❀╲╱\n\n©  .120363419659321292@newsletter Isagi Yoichi 2.0 subbots`
     }, { quoted: msg });
 
   } catch (e) {
