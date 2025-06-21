@@ -12,7 +12,7 @@ const handler = async (msg, { conn, text, usedPrefix }) => {
 
   if (!text) {
     return conn.sendMessage(chatId, {
-      text: `✳️ Usa el comando correctamente:\n\n📌 Ejemplo: *${usedPrefix}setwelcome* Hola, bienvenido al grupo Azura Ultra.`
+      text: `✳️ Usa el comando correctamente:\n\n📌 Ejemplo: *${usedPrefix}setwelcome* Hola, bienvenido al grupo ISAGI -YOICHI -MD.`
     }, { quoted: msg });
   }
 
