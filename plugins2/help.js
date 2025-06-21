@@ -19,7 +19,7 @@ const handler = async (msg, { conn }) => {
   });
 
   const menu = `
-╔⌬ AZURA Ultra 2.0 SUBBOT⌬╗
+╔⌬ ISAGI -YOICHI -MD 2.0 SUBBOT⌬╗
 ║   Menú por categorías  
 ╚═──────────────────═╝
 
