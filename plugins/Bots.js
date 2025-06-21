@@ -42,7 +42,7 @@ const handler = async (msg, { conn }) => {
   }).join("\n\n");
 
   // Construir mensaje final
-  const menu = `╭━〔 *AZURA ULTRA 2.0* 〕━⬣
+  const menu = `╭━〔 *ISAGI YOICHI2.0* 〕━⬣
 │ 🤖 Total conectados: *${total}/${maxSubbots}*
 │ 🟢 Sesiones libres: *${disponibles}*
 ╰━━━━━━━━━━━━⬣
