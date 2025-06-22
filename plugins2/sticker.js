@@ -149,7 +149,7 @@ async function addExif(webpBuffer, metadata) {
   fs.writeFileSync(tmpIn, webpBuffer);
 
   const json = {
-    "sticker-pack-id": "azura-ultra&cortana",
+    "sticker-pack-id": "ISAGI-YOICHI& GABRIEL",
     "sticker-pack-name": metadata.packname,
     "sticker-pack-publisher": metadata.author,
     "emojis": metadata.categories || [""]
