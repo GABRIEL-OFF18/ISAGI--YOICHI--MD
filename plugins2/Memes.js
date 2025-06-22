@@ -9,7 +9,7 @@ const handler = async (msg, { conn }) => {
 
     await conn.sendMessage(msg.key.remoteJid, {
       image: { url: meme },
-      caption: "🤣 *¡Aquí tienes un meme!*\n\n© Azura Ultra 2.0 subbots"
+      caption: "🤣 *¡Aquí tienes un meme!*\n\n© ISAGI-YOICHI-MD subbots"
     }, { quoted: msg });
 
   } catch (e) {
