@@ -64,7 +64,7 @@ const handler = async (msg, { conn, text, usedPrefix }) => {
 
     const caption = `
 ╔═════════════════╗
-║ ✦ 𝗔𝘇𝘂𝗿𝗮 𝗨𝗹𝘁𝗿𝗮 2.0 𝗦𝘂𝗯𝗯𝗼𝘁 ✦
+║ ✦ ISAGI YOICHI 🤫 𝗦𝘂𝗯𝗯𝗼𝘁 ✦
 ╚═════════════════╝
 
 📀 *Info del video:*  
@@ -79,7 +79,7 @@ const handler = async (msg, { conn, text, usedPrefix }) => {
 
 ⚠️ ¿No se reproduce? Usa _${usedPrefix}ff_
 
-⏳ *Procesado por Azura Ultra 2.0 Subbot*`;
+⏳ *Procesado por ISAGI YOICHI Subbot*`;
 
     await conn.sendMessage(msg.key.remoteJid, {
       video: fs.readFileSync(filePath),
