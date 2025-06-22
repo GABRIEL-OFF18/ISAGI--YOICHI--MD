@@ -83,7 +83,7 @@ const handler = async (msg, { conn }) => {
         // Enviar resultado
         await conn.sendMessage(msg.key.remoteJid, {
             image: enhancedImage,
-            caption: "🖼️ *Imagen mejorada con tecnología HD*\n\n💡 *Sugerencia:* Para mejores resultados use fotos con buena iluminación\n\n🤖 *Azura Ultra 2.0*"
+            caption: "🖼️ *Imagen mejorada con tecnología HD*\n\n💡 *Sugerencia:* Para mejores resultados use fotos con buena iluminación\n\n👀 *ISAGI YOICHI*"
         }, { quoted: msg });
 
         // Reacción de éxito
