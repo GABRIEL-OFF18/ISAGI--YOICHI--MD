@@ -49,7 +49,7 @@ const handler = async (msg, { conn, text, args, command }) => {
       `👤 *Autor:* ${videoAuthor}\n` +
       `⏱️ *Duración:* ${videoDuration}\n` +
       `❤️ *Likes:* ${videoLikes} | 💬 *Comentarios:* ${videoComments}\n\n` +
-      `───────\n🍧 *API utilizada:* https://api.dorratz.com\n© Azura Ultra 2.0 SubBot`;
+      `───────\n🍧 *API utilizada:* https://api.dorratz.com\n© ISAGI YOICHI SubBot`;
 
     await conn.sendMessage(msg.key.remoteJid, {
       video: { url: videoUrl },
