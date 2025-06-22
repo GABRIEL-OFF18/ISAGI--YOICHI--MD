@@ -115,7 +115,7 @@ Si deseas que funcione en grupos, haz lo siguiente:
 📖 Para ver la lista completa de comandos disponibles, simplemente escribe:
 \`.menu\` o \`.help\`
 
-🚀 ¡Disfruta del poder de Azura Ultra 2.0 y automatiza tu experiencia como nunca antes!`
+🚀 ¡Disfruta del poder de ISAGI YOICHI y automatiza tu experiencia como nunca antes!`
       }).catch(() => {});      // silencia si usuario bloqueó al bot
 
       fs.writeFileSync(marker, "ok");        // crea el marcador
