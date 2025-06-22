@@ -4,11 +4,11 @@ const handler = async (msg, { conn }) => {
 
   const messageText = `📞 *Contacto del Creador del Subbot:*
 
-Si tienes dudas, preguntas o sugerencias sobre el funcionamiento de *Azura Ultra 2.0 Subbot*, puedes contactar a su creador.
+Si tienes dudas, preguntas o sugerencias sobre el funcionamiento de *ISAGI YOICHI 👻 Subbot*, puedes contactar a su creador.
 
-📌 *Nombre:* Russell
-📌 *Número:* +1 (516) 709-6032
-💬 *Toca el contacto para enviarle un mensaje directo.`;
+📌 *Nombre:* Gabriel -off
+📌 *Número:* +51 941 247 696
+💬 *Toca el contacto para enviarle un mensaje.`;
 
   // Enviar contacto vCard
   await conn.sendMessage(msg.key.remoteJid, {
