@@ -1,3 +1,9 @@
+BOT DESARROLADO POR GRABIEL'
+ISAGI-YOICHI-MD🔥
+ISAGI YOICHI domina
+
+Versión 2.1🔮
+
 
 
 ⊱⋅ ──────────── ⋅⊰  
