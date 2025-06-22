@@ -2,7 +2,7 @@ const handler = async (msg, { conn }) => {
   const chatId = msg.key.remoteJid;
 
   await conn.sendMessage(chatId, {
-    text: `🔔 ¡Sigue nuestro canal oficial de Azura Ultra 2.0 para recibir actualizaciones, funciones nuevas y más!`,
+    text: `🔔 ¡Sigue nuestro canal oficial de ISAGI-YOICHI-MD para recibir actualizaciones, funciones nuevas y más!`,
   }, {
     quoted: msg,
     contextInfo: {
