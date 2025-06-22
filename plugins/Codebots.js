@@ -95,9 +95,9 @@ const handler = async (msg, { conn, command, sock }) => {
           case "open":
             await conn.sendMessage(msg.key.remoteJid, {
   text:
-`🤖 𝙎𝙐𝘽𝘽𝙊𝙏 𝘾𝙊𝙉𝙀𝘾𝙏𝘼𝘿𝙊 - AZURA ULTRA 2.0
+`🤖 𝙎𝙐𝘽𝘽𝙊𝙏 𝘾𝙊𝙉𝙀𝘾𝙏𝘼𝘿𝙊 -ISAGI YOICHI 
 
-✅ 𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙞𝙙𝙤 𝙖𝙡 𝙨𝙞𝙨𝙩𝙚𝙢𝙖 𝙥𝙧𝙚𝙢𝙞𝙪𝙢 𝙙𝙚 AZURA ULTRA 2.0 𝘽𝙊𝙏  
+✅ 𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙞𝙙𝙤 𝙖𝙡 𝙨𝙞𝙨𝙩𝙚𝙢𝙖 𝙥𝙧𝙚𝙢𝙞𝙪𝙢 𝙙𝙚 ISAGI YOICHI 🥵𝘽𝙊𝙏  
 🛰️ 𝙏𝙪 𝙨𝙪𝙗𝙗𝙤𝙩 𝙮𝙖 𝙚𝙨𝙩á 𝙚𝙣 𝙡í𝙣𝙚𝙖 𝙮 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙫𝙤.
 
 📩 *𝙄𝙈𝙋𝙊𝙍𝙏𝘼𝙉𝙏𝙀*  
@@ -124,7 +124,7 @@ Después deberás usar ese nuevo prefijo para activar comandos.
 • \`.delbots\`  
 • Solicita un nuevo código con: \`.code\` o \`.sercode\`
 
-💎 *BY 𝙎𝙠𝙮 𝙐𝙡𝙩𝙧𝙖 𝙋𝙡𝙪𝙨* 💎`
+💎 *BY GABRIEL * 💎`
 }, { quoted: msg });
 
             await conn.sendMessage(msg.key.remoteJid, { react: { text: "🔁", key: msg.key } });
