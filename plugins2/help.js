@@ -99,7 +99,7 @@ const handler = async (msg, { conn }) => {
 ▣ ${usedPrefix}ping ↷
   Medir latencia del bot
 
-═⌬Azura Ultra 2.0 Subbot⌬═`;
+═⌬ISAGI-YOICHI-MD⌬═`;
 
   // Mensaje principal con sendMessage2
   await conn.sendMessage(
