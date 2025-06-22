@@ -36,7 +36,7 @@ const handler = async (msg, { conn, text, command }) => {
       }, { quoted: msg });
     }
 
-    const caption = `🎬 *Video de Instagram*\n\n> 🍧 Solicitud procesada por api.dorratz.com\n\n───────\n© Azura Ultra 2.0 SubBot`;
+    const caption = `🎬 *Video de Instagram*\n\n> 🍧 Solicitud procesada por api.dorratz.com\n\n───────\n© ISAGI YOICHI SubBot`;
 
     for (let item of data) {
       await conn.sendMessage(msg.key.remoteJid, {
