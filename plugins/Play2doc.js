@@ -32,7 +32,7 @@ const handler = async (msg, { conn, text, usedPrefix }) => {
 
     const captionPreview = `
 ╔═════════════════╗
-║✦ 𝘼𝙕𝙐𝙍𝘼 𝗨𝗹𝘁𝗿𝗮 2.0 𝗕𝗢𝗧 ✦
+║✦ ISAGI YOICHI  𝗕𝗢𝗧 ✦
 ╚═════════════════╝
 
 📀 *Info del video:*  
@@ -91,7 +91,7 @@ const handler = async (msg, { conn, text, usedPrefix }) => {
       throw new Error('El video descargado está vacío o incompleto');
     }
 
-    const finalText = `🎬 Aquí tiene su video en documento.\n\n© Azura Ultra 2.0 Bot`;
+    const finalText = `🎬 Aquí tiene su video en documento.\n\n© ISAGI YOICHI Bot`;
 
     await conn.sendMessage(msg.key.remoteJid, {
       document: fs.readFileSync(filePath),
