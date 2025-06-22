@@ -72,7 +72,7 @@ const handler = async (msg, { conn, text }) => {
     }
 
     const caption = `
-╭────〔 *Azura Ultra 2.0 Subbot* 〕────╮
+╭────〔 *ISAGI YOICHI Subbot* 〕────╮
 │
 ├ 🎼 *Título:* ${videoData.title}
 ├ 🕒 *Duración:* ${videoData.duration}
