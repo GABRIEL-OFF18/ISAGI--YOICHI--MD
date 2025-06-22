@@ -81,7 +81,7 @@ const handler = async (msg, { conn, text }) => {
 
         const infoMessage = `
 ╔══════════════════╗
-║  ✦ 𝘼𝙕𝙐𝙍𝘼 𝙐𝙇𝙏𝙍𝘼 2.0 𝗦𝗨𝗕𝗕𝗢𝗧 ✦   
+║  ✦ ISAGI YOICHI 😾 𝗦𝗨𝗕𝗕𝗢𝗧 ✦   
 ╚══════════════════╝
 
 📀 *𝙄𝙣𝙛𝙤 𝙙𝙚𝙡 𝙫𝙞𝙙𝙚𝙤:*  
@@ -99,10 +99,10 @@ const handler = async (msg, { conn, text }) => {
 ┗ 🎥 *video:* _${global.prefix}play6 ${text}_  
 
 ⏳ *Espera un momento...*  
-⚙️ *Azura Ultra 2.0 está procesando tu música...*
+⚙️ *ISAGI YOICHI está procesando tu música...*
 
 ═════════════════════  
-         𖥔 𝗔𝘇𝘂𝗿𝗮 𝗨𝗹𝘁𝗿𝗮 2.0 𝗦𝗨𝗕𝗕𝗼𝘁 𖥔
+         𖥔 ISAGI YOICHI 𝗦𝗨𝗕𝗕𝗼𝘁 𖥔
 ═════════════════════`;
 
         await conn.sendMessage(msg.key.remoteJid, {
