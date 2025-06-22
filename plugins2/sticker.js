@@ -49,7 +49,7 @@ const handler = async (msg, { conn }) => {
 
     const metadata = {
       packname: `✨ Lo Mandó Hacer: ${senderName} ✨`,
-      author: `🤖 Bot Creador: Azura Ultra 2.0 Subbot\n🛠️ Desarrollado por: 𝙍𝙪𝙨𝙨𝙚𝙡𝙡 xz 💻\n${fechaCreacion}`
+      author: `🤖 Bot Creador: ISAGI YOICHI Subbot\n🛠️ Desarrollado por: Gabriel xz 💻\n${fechaCreacion}`
     };
 
     const sticker = mediaType === 'image'
