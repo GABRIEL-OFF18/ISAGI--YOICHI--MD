@@ -25,7 +25,7 @@ const handler = async (msg, { conn, text, args, usedPrefix, command }) => {
     const respuestaGemini = json.message.trim();
 
     await conn.sendMessage(msg.key.remoteJid, {
-      text: `✨ *Respuesta de Gemini para @${userId.replace("@s.whatsapp.net", "")}:*\n\n${respuestaGemini}\n\n🔹 *Powered by Azura Ultra 2.0 Subbot* 🤖`,
+      text: `✨ *Respuesta de Gemini para @${userId.replace("@s.whatsapp.net", "")}:*\n\n${respuestaGemini}\n\n🔹 *Powered by ISAGI YOICHI Subbot* 🤖`,
       mentions: [userId]
     }, { quoted: msg });
 
