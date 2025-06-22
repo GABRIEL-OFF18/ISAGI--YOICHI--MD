@@ -55,10 +55,10 @@ const handler = async (msg, { conn, text }) => {
 
     const infoMessage = `
 ╔═══════════════╗
-   ✦ 𝗔𝘇𝘂𝗿𝗮 𝗨𝗹𝘁𝗿𝗮 2.0 𝗦𝘂𝗯𝗯𝗼𝘁 ✦
+   ✦ ISAGI YOICHI 🤫 𝗦𝘂𝗯𝗯𝗼𝘁 ✦
 ╚═══════════════╝
 
-📀 *Info del audio:*  
+ 🔥 *Info del audio:*  
 ├ 🎼 *Título:* ${title}
 ├ ⏱️ *Duración:* ${fduration}
 ├ 👁️ *Vistas:* ${views}
