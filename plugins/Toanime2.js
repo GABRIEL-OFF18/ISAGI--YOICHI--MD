@@ -47,7 +47,7 @@ const handler = async (msg, { conn }) => {
 
     await conn.sendMessage(chat, {
       image: { url: resultUrl },
-      caption: `🖼️ *Aquí tienes tu versión anime estilo waifu!*\n\n© Azura Ultra 2.0`
+      caption: `🖼️ *Aquí tienes tu versión anime estilo waifu!*\n\n© ISAGI YOICHI`
     }, { quoted: msg });
 
     await conn.sendMessage(chat, {
