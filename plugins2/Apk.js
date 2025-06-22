@@ -39,7 +39,7 @@ const handler = async (msg, { conn, text, args, usedPrefix, command }) => {
                     `🔄 *Versión:* ${apkInfo.version}\n` +
                     `📅 *Actualizado:* ${apkInfo.updated}\n` +
                     `📋 *Requisitos:* ${apkInfo.requirements}\n` +
-                    `🔗 *ID:* ${apkInfo.id}\n\n📲 *Descargado por Azura Ultra Subbot*`;
+                    `🔗 *ID:* ${apkInfo.id}\n\n📲 *Dscargado por ISAGI YOICHI Subbot*`;
 
     await conn.sendMessage(msg.key.remoteJid, {
       image: { url: apkInfo.thumbnail },
