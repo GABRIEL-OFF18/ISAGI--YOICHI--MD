@@ -27,7 +27,7 @@ const handler = async (msg, { conn, text, usedPrefix, command }) => {
       }, { quoted: msg });
     }
 
-    const message = `📺 *Resoluciones disponibles:*\n${results.map(r => `- ${r.resolution}`).join('\n')}\n\n🔥 Enviado en *720p*\n\n> 🍧 Procesado por *api.dorratz.com*\n───────\n© *Azura Ultra 2.0 Subbot*`;
+    const message = `📺 *Resoluciones disponibles:*\n${results.map(r => `- ${r.resolution}`).join('\n')}\n\n🔥 Enviado en *720p*\n\n> 🍧 Procesado por *api.dorratz.com*\n───────\n© *Isagi Yoichi 🤫 Subbot*`;
 
     await conn.sendMessage(msg.key.remoteJid, {
       video: { url: results[0].url },
