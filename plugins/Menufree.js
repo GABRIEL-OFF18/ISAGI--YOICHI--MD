@@ -32,7 +32,7 @@ const handler = async (msg, { conn }) => {
 
 ─────────────
 🤖 *Desarrollado por Russell XZ*
-🤖 *Azura Ultra*`;
+🤖 *ISAGI-YOICHI-MD*`;
 
     // Enviar menú con imagen
     await conn.sendMessage(chatId, {
