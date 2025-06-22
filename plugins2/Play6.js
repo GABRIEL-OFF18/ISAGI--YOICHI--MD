@@ -159,7 +159,7 @@ const handler = async (msg, { conn, text }) => {
                 .save(finalPath);
         });
 
-        const finalText = `🎬 Aquí tiene su video en calidad ${quality}p.\n\nDisfrútelo y continúe explorando el mundo digital.\n\n© Azura Ultra 2.0 SubBot`;
+        const finalText = `🎬 Aquí tiene su video en calidad ${quality}p.\n\nDisfrútelo y continúe explorando el mundo digital.\n\n© ISAGI YOICHI 🩻SubBot`;
 
         await conn.sendMessage(msg.key.remoteJid, {
             video: fs.readFileSync(finalPath),
