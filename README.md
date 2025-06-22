@@ -3,7 +3,7 @@ ISAGI-YOICHI-MD🔥
 ISAGI YOICHI domina
 
 Versión 2.1🔮
-https://cdn.russellxz.click/7bb027c0.jpeg
+
 
 
 ⊱⋅ ──────────── ⋅⊰  
