@@ -7,7 +7,7 @@ const handler = async (msg, { conn }) => {
     await conn.sendMessage(chatId, { react: { text: "📋", key: msg.key } });
 
     // Imagen fija del menú
-    const imgUrl = 'https://cdn.russellxz.click/706326cf.jpeg';
+    const imgUrl = 'https://files.catbox.moe/s6uc0x.jpg;
 
     // Menú con marca de agua al final
     const texto = `╭──────>⋆☽⋆⋆☾⋆<──────╮
@@ -30,8 +30,7 @@ const handler = async (msg, { conn }) => {
 🍉 ➺ *${prefix}24vs24*
 🍉 ➺ *${prefix}guerr*
 
-─────────────
-🤖 *Desarrollado por Russell XZ*
+*─────────────*
 🤖 *ISAGI-YOICHI-MD*`;
 
     // Enviar menú con imagen
