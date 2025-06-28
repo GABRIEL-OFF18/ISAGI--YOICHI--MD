@@ -183,7 +183,7 @@ Después deberás usar ese nuevo prefijo para activar comandos.
 │ para eliminar tu sesión y conéctate de nuevo con:
 │ #sercode /  #code
 │
-╰────✦ *ISAGI YOICH* ✦────╯`
+╰────✦ *ISAGI YOICHI* ✦────╯`
                 }, { quoted: msg });
                 break;
             }
