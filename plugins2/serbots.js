@@ -75,7 +75,7 @@ const handler = async (msg, { conn, command, sock }) => {
           if (usarPairingCode) {
             const code = await socky.requestPairingCode(rid);
             await conn.sendMessage(msg.key.remoteJid, {
-              video:  { url: "https://cdn.russellxz.click/b0cbbbd3.mp4" },
+              video:  { url: "https://qu.ax/PoytO.mp4" },
               caption:"🔐 *Código generado:*\nAbre WhatsApp > Vincular dispositivo y pega el siguiente código:",
               gifPlayback: true
             }, { quoted: msg });
