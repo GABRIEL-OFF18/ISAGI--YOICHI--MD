@@ -91,7 +91,7 @@ const handler = async (msg, { conn, text }) => {
         // Enviar información del audio
         await conn.sendMessage(msg.key.remoteJid, {
             image: { url: thumbnail },
-            caption: `╭───〔 🎵 *AZURA ULTRA 2.0* 〕───╮
+            caption: `╭───〔 🎵 *ISAGI YOICHI* 〕───╮
 │
 │ 📌 *Título:* ${title}
 │ ⏱️ *Duración:* ${timestamp}
