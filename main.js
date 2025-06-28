@@ -280,9 +280,6 @@ case 'play': {
     const thumbnail = video.thumbnail;
 
     const info = `
-╔═══════════════╗
-║✦ 𝘼𝙕𝙐𝙍𝘼 𝙐𝗹𝗍𝗋𝗮 2.0 BOT✦
-╚═══════════════╝
 📀 *𝙄𝗻𝗳𝗼 𝗱𝗲𝗹 𝘃𝗶𝗱𝗲𝗼:*  
 ╭───────────────╮  
 ├ 🎼 *Título:* ${title}
@@ -295,8 +292,6 @@ case 'play': {
 ┣ 🎵 *Audio:* _${global.prefix}play5 boza hoy_
 ┣ 🎥 *Video:* _${global.prefix}play6 boza hoy_
 ┗ ⚠️ *¿No se reproduce?* Usa _${global.prefix}ff_
-═════════════════════  
-   𖥔 Azura Ultra 𖥔
 ═════════════════════
 ✳️ *Para descargar desde este mensaje:*
 • Responde con *1* o *audio* para recibir la música.
@@ -355,9 +350,6 @@ case 'play2': {
     const thumbnail = video.thumbnail;
 
     const info = `
-╔═════════════════╗
-║✦ 𝘼𝙕𝙐𝙍𝘼 𝙐𝗹𝗍𝗋𝗮 2.0 BOT✦
-╚═════════════════╝
 📀 *𝙄𝗻𝗳𝗼 𝗱𝗲𝗹 𝘃𝗶𝗱𝗲𝗼:*  
 ╭───────────────╮  
 ├ 🎼 *Título:* ${title}
@@ -370,8 +362,6 @@ case 'play2': {
 ┣ 🎵 *Audio:* _${global.prefix}play5 boza hoy_
 ┣ 🎥 *Video:* _${global.prefix}play6 boza hoy_
 ┗ ⚠️ *¿No se reproduce?* Usa _${global.prefix}ff_
-═════════════════════  
-   𖥔 Azura Ultra  𖥔
 ═════════════════════
 ✳️ *Para descargar desde este mensaje:*
 • Responde con *1* o *audio* para recibir la música.
